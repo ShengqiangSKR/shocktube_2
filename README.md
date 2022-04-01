@@ -9,6 +9,7 @@
 ## preについて
 - Zhiping Maoら(2020)の3.1の類似問題を解析した
 - 数式については論文とは違い
+
 <img src=
 "https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cdisplaystyle+%5Cfrac%7B%5Cpartial+%5Crho%7D%7B%5Cpartial+t%7D+%2B+%5Cfrac%7B%5Cpartial+%5Crho+u%7D%7B%5Cpartial+x%7D+%3D+0+" 
 alt="\frac{\partial \rho}{\partial t} + \frac{\partial \rho u}{\partial x} = 0 ">
@@ -35,6 +36,7 @@ alt="U(\rho, u, p)=(1, 1, 1)">で計算をしている
 ## 本体について
 - Zhiping Maoら(2020)の4.1.1の類似問題を解析した
 - 数式については論文とは違い
+
 <img src=
 "https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cdisplaystyle+%5Cfrac%7B%5Cpartial+%5Crho%7D%7B%5Cpartial+t%7D+%2B+%5Cfrac%7B%5Cpartial+%5Crho+u%7D%7B%5Cpartial+x%7D+%3D+0+" 
 alt="\frac{\partial \rho}{\partial t} + \frac{\partial \rho u}{\partial x} = 0 ">
